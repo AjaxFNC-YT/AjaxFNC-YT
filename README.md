@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm Ajaxfnc
 
-<!--
-**AjaxFNC-YT/AjaxFNC-YT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=AjaxFNC-YT&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=AjaxFNC-YT&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaxFNC-YT&layout=compact&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tools & Tech
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
